@@ -69,10 +69,6 @@
 	width: 100px;;
 }
 
-.title img {
-	width: 250px;
-}
-
 .reveal blockquote.blockquote--wide {
 	width: 100%;
 	font-size: 40px;
@@ -87,4 +83,13 @@
 
 .line-highlight {
   margin-top:65px !important;
+}
+
+.reveal section img.big-img {
+  max-height: 500px;
+  margin-top: 20px;
+}
+
+.text-red {
+  color: #ff0000 !important;
 }

@@ -31,18 +31,15 @@
 
 ------
 
-<div class="title">
-<img src="img/react-logo.png"/><img src="img/redux-logo.png"/>
-</div>
+<img src="img/react_redux_logo.png"/>
 
 ------
 
 ## Agenda
 
-* O que é React?<!-- .element class="fragment" -->
-* Fundamentos do React<!-- .element class="fragment" -->
-* Componentes<!-- .element class="fragment" -->
+* O que é React e como ele funciona?<!-- .element class="fragment" -->
 * VirtualDOM<!-- .element class="fragment" -->
-* Boas praticas<!-- .element class="fragment" -->
+* Boas práticas<!-- .element class="fragment" -->
 * Redux <!-- .element class="fragment" -->
+* [re]gene <!-- .element class="fragment" -->
 

@@ -81,7 +81,7 @@ ou
 
 ------
 
-#<a href="https://twitter.com/iamdevloper/status/598435575662813184"><img src="img/iamdeveloper-jsx.png"/></a>
+<a href="https://twitter.com/iamdevloper/status/598435575662813184"><img src="img/iamdeveloper-jsx.png"/></a>
 
 ------
 
@@ -180,6 +180,8 @@ ReactDOM.render(&lt;Timer />, mountNode);
 ## One-way data flow
 
 ------
+
+#### One-way data flow
 
 <img src="img/fundamentals_data_flow.png"/>
 
