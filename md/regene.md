@@ -30,9 +30,15 @@
 * Babel<!-- .element class="fragment" -->
 * React<!-- .element class="fragment" -->
 * Redux<!-- .element class="fragment" -->
-<li> *React-Router*</li><!-- .element class="fragment" -->
+* React-Router<!-- .element class="fragment" -->
 * Não depende de jQuery<!-- .element class="fragment" -->
 * Menor acoplamento<!-- .element class="fragment" -->
+
+Notes:
+
+* Webpack para fazer o bundle
+* Babel para fazer tudo com ECMA6
+* React-Router pra fazer os links funcionarem 
 
 ------
 
@@ -64,6 +70,12 @@
 * Chai<!-- .element class="fragment" -->
 * Nock<!-- .element class="fragment" -->
 
+Notes:
+
+* Mocha roda os testes
+* Chai tem as assertions de BDD
+* Nock faz os mocks de ajax
+
 ------
 
 ### Caching do carrinho
@@ -74,6 +86,10 @@
 ------
 
 ### Demo!
+
+Notes: 
+
+* qaregene.bionexo.com.br
 
 ------
 

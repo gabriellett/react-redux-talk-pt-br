@@ -93,3 +93,13 @@
 .text-red {
   color: #ff0000 !important;
 }
+
+section#refs {
+  text-align: left;
+}
+
+.reveal section#refs h3 {
+  margin-top: 20px;
+
+
+}

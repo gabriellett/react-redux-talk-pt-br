@@ -84,6 +84,10 @@ Decreve o que acontece ou deve acontecer, mas não como
 
 &nbsp; 
 
+Notes:
+
+noop reducer
+
 ------
 
 <!-- .element data-transition="none slide-out"  -->
@@ -107,3 +111,7 @@ Decreve o que acontece ou deve acontecer, mas não como
 ## Redux dev-tools = <span class="text-red">♥</span>
 
 <img src="img/redux-dev-tools.gif" class="big-img"/>
+
+Notes:
+
+Se der tempo, vou mostrar no final

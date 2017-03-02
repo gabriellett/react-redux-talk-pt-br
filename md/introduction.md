@@ -37,8 +37,11 @@
 
 ## Agenda
 
-* O que é React e como ele funciona?<!-- .element class="fragment" -->
-* VirtualDOM<!-- .element class="fragment" -->
+* React<!-- .element class="fragment" -->
+  * O que é<!-- .element class="fragment" -->
+  * Como funciona<!-- .element class="fragment" -->
+  * Componentes<!-- .element class="fragment" -->
+  * VirtualDOM<!-- .element class="fragment" -->
 * Boas práticas<!-- .element class="fragment" -->
 * Redux <!-- .element class="fragment" -->
 * [re]gene <!-- .element class="fragment" -->
