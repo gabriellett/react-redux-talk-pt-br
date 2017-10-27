@@ -69,12 +69,14 @@ Notes:
 * Mocha<!-- .element class="fragment" -->
 * Chai<!-- .element class="fragment" -->
 * Nock<!-- .element class="fragment" -->
+* Enzyme<!-- .element class="fragment" -->
 
 Notes:
 
 * Mocha roda os testes
 * Chai tem as assertions de BDD
 * Nock faz os mocks de ajax
+* Enzyme faz os testes de coisas do React
 
 ------
 

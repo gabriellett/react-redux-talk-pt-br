@@ -12,8 +12,9 @@
   </div>
   <div class="split-col-info">
     Gabriel Lett Viviani<br/>
-    webapps desde criancinha<br/>
-    Java -> Ruby -> Python, Golang, Javascript, Scala etc
+    - webapps desde criancinha<br/>
+    - Ciencia da computação - FEI<br/>
+    - Java -> Ruby -> Python, Golang, Javascript, Scala, Elixir etc
     <div class="split">
       <div class="split-col-50">
         <div class="imgs">
