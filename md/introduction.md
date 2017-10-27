@@ -43,6 +43,7 @@
   * Como funciona<!-- .element class="fragment" -->
   * Componentes<!-- .element class="fragment" -->
   * VirtualDOM<!-- .element class="fragment" -->
+  * React 16 / react-fiber<!-- .element class="fragment" -->
 * Boas práticas<!-- .element class="fragment" -->
 * Redux <!-- .element class="fragment" -->
 * [re]gene <!-- .element class="fragment" -->

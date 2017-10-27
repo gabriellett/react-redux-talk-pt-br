@@ -12,6 +12,14 @@
 
 ------
 
+## React-fiber
+
+* https://www.youtube.com/watch?v=ZCuYPiUIONs
+* https://www.infoq.com/news/2017/05/react-fiber-closer-look
+* https://code.facebook.com/posts/1716776591680069/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/
+
+------
+
 ### Melhores praticas
 
 * https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.6kfpc874c
